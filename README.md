@@ -16,6 +16,7 @@ pip install -r requirements.txt
 pip install .
 cd ..
 git clone https://github.com/BM-K/KoSentenceBERT_SKTBERT.git
+cd KoSentenceBERT_SKTBERT
 pip install -r requirements.txt
 ```
  - transformer, tokenizers, sentence_transformers 디렉토리를 opt/conda/lib/python3.7/site-packages/ 로 이동합니다. <br>
